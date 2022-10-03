@@ -90,11 +90,11 @@ nav ul li a:hover{
   overflow: hidden;
   border-radius: 100% 0px 100% 100%;
   background-color: #d9f4ff;
-  width: 350px;
-  height: 350px;
+  width: 325px;
+  height: 325px;
 }
 .user-img{
-  width: 375px;
+  width: 350px;
   background: #a349a4;
   position: absolute;
   right: -2%;
